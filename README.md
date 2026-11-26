@@ -60,9 +60,9 @@ Enterprise-grade software-defined WAN, secure edge, and multi-cloud traffic rout
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated list of self-hosted, multi-WAN bonding, kernel-bypass routing, and network aggregation open-source software. Sorted by GitHub stars in descending order. 🌟
+Curated list of self-hosted, multi-WAN bonding, kernel-bypass routing, and network aggregation open-source software. Sorted by GitHub_Stars in descending order. 🌟
 
-| Project | ⭐ Stars | 💻 Tech Stack | 🎯 Key Focus & Capabilities |
+| Project | ⭐ GitHub_Stars | 💻 Tech Stack | 🎯 Key Focus & Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[Tailscale](https://github.com/tailscale/tailscale)** | [![Stars](https://img.shields.io/github/stars/tailscale/tailscale?style=social&color=white)](https://github.com/tailscale/tailscale/stargazers) | Go, WireGuard | Mesh VPN and zero-config SD-WAN built on WireGuard with subnet routers and multi-path exit nodes. 🚀 |
 | **[OpenWrt](https://github.com/openwrt/openwrt)** | [![Stars](https://img.shields.io/github/stars/openwrt/openwrt?style=social&color=white)](https://github.com/openwrt/openwrt/stargazers) | C, Lua, Shell | Linux operating system targeting embedded network devices; powers `mwan3` multi-WAN load balancing and failover. 📡 |
